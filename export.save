@@ -1,0 +1,7 @@
+{:id=>1, :title=>"Justus", :parent_id=>nil}
+{:id=>2, :title=>"Martina", :parent_id=>1}
+{:id=>3, :title=>"Klaus", :parent_id=>1}
+{:id=>4, :title=>"Gisela", :parent_id=>2}
+{:id=>5, :title=>"Hans", :parent_id=>2}
+{:id=>6, :title=>"Hanna", :parent_id=>3}
+{:id=>7, :title=>"Gerd", :parent_id=>3}
